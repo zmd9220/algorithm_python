@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8bb0c2-64df-46e9-9f9b-7264a572129e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/단계 1/We love krill 10718.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계 1/고양이 10171.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 1/1000 A+B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 1/1001 A-B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 1/1008 A%B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 1/10430 나머지.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 1/10869 사칙연산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 1/10998 AxB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 1/2588 곱셈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +35,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.개 10172">
-    <configuration name="고양이 10171" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10430 나머지">
+    <configuration name="1001 A-B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -42,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 1/고양이 10171.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 1/1001 A-B.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="개 10172" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1008 A%B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 1/개 10172.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 1/1008 A%B.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2557 Hello World" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10430 나머지" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 1/2557 Hello World.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 1/10430 나머지.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="We love krill 10718" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10869 사칙연산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +111,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 1/We love krill 10718.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 1/10869 사칙연산.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10998 AxB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/단계 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 1/10998 AxB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,10 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.개 10172" />
-        <item itemvalue="Python.고양이 10171" />
-        <item itemvalue="Python.We love krill 10718" />
-        <item itemvalue="Python.2557 Hello World" />
+        <item itemvalue="Python.10430 나머지" />
+        <item itemvalue="Python.10869 사칙연산" />
+        <item itemvalue="Python.1008 A%B" />
+        <item itemvalue="Python.10998 AxB" />
+        <item itemvalue="Python.1001 A-B" />
       </list>
     </recent_temporary>
   </component>
@@ -141,29 +169,41 @@
       <option name="project" value="LOCAL" />
       <updated>1595168429766</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="알고리즘 1단계 3문제">
+      <created>1595252362477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595252362477</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="알고리즘 1단계 1문제" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 1단계 1문제" />
+    <MESSAGE value="알고리즘 1단계 3문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 1단계 3문제" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1595252222468">
+    <state x="577" y="87" key="CommitChangelistDialog2" timestamp="1595252361620">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595252222468" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1595252222468">
+    <state x="577" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595252361620" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1595257230044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595252222468" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1595252222468">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595257230044" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1595257230044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595252222468" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1595252222468">
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595257230044" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1595257230043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595252222468" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595257230043" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1595257230044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595257230044" />
   </component>
 </project>
