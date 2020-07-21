@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8bb0c2-64df-46e9-9f9b-7264a572129e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/단계 3 for문/10950 A+B -3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계 3 for문/15552 빠른 A+B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계 3 for문/2739 구구단.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계 3 for문/2741 N 찍기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계 3 for문/2742 기찍 N.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계 3 for문/8393 합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 3 for문/10871 X보다 작은 수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 3 for문/11021 A+B - 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 3 for문/11022 A+B - 8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 3 for문/2438 별 찍기 - 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 3 for문/2439 별 찍기 - 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +36,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.2742 기찍 N">
-    <configuration name="10950 A+B -3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10871 X보다 작은 수">
+    <configuration name="10871 X보다 작은 수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 3 for문/10950 A+B -3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 3 for문/10871 X보다 작은 수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15552 빠른 A+B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11021 A+B - 7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 3 for문/15552 빠른 A+B.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 3 for문/11021 A+B - 7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2741 N 찍기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11022 A+B - 8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 3 for문/2741 N 찍기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 3 for문/11022 A+B - 8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2742 기찍 N" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2438 별 찍기 - 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 3 for문/2742 기찍 N.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 3 for문/2438 별 찍기 - 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8393 합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2439 별 찍기 - 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 3 for문/8393 합.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 3 for문/2439 별 찍기 - 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2742 기찍 N" />
-        <item itemvalue="Python.2741 N 찍기" />
-        <item itemvalue="Python.15552 빠른 A+B" />
-        <item itemvalue="Python.8393 합" />
-        <item itemvalue="Python.10950 A+B -3" />
+        <item itemvalue="Python.10871 X보다 작은 수" />
+        <item itemvalue="Python.2439 별 찍기 - 2" />
+        <item itemvalue="Python.2438 별 찍기 - 1" />
+        <item itemvalue="Python.11022 A+B - 8" />
+        <item itemvalue="Python.11021 A+B - 7" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595316652814</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="백준 알고리즘 3단계 for문 6번까지">
+      <created>1595319696713</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595319696713</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -200,32 +206,41 @@
     <MESSAGE value="알고리즘 1단계 3문제" />
     <MESSAGE value="알고리즘 1단계 사칙연산" />
     <MESSAGE value="백준 알고리즘 2단계 if문" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 알고리즘 2단계 if문" />
+    <MESSAGE value="백준 알고리즘 3단계 for문 6번까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 알고리즘 3단계 for문 6번까지" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="577" y="87" key="CommitChangelistDialog2" timestamp="1595316651998">
+    <state x="577" y="87" key="CommitChangelistDialog2" timestamp="1595319695972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="577" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595316651998" />
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1595319336944">
+    <state x="577" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595319695972" />
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1595322296509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595319336944" />
-    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1595319336944">
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595322296509" />
+    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1595322296509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595319336944" />
-    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1595319336944">
+    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595322296509" />
+    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1595322296509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595319336944" />
-    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1595319336944">
+    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595322296509" />
+    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1595322296509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595319336944" />
+    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595322296509" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595257248452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595257248452" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1595320107125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1595320107125" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-2" timestamp="1595320107125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1595320107125" />
   </component>
 </project>
