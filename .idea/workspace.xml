@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8bb0c2-64df-46e9-9f9b-7264a572129e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/단계 7 함수/# 4673 셀프 넘버.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계 7 함수/1065 한수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계 7 함수/15596 정수 N개의 합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 20 스택/10828 스택.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 6 1차원 배열/10818 최소,최대.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계 6 1차원 배열/2562 최댓값.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/단계 5 실습 1/2446 별 찍기 - 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/단계 5 실습 1/# 2446 별 찍기 - 9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/단계 5 실습 1/# 2446 별 찍기 - 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/단계 5 실습 1/# 2446 별 찍기 - 9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +35,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.# 1065 한수">
-    <configuration name="10996 별 찍기 - 21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10828 스택">
+    <configuration name="10818 최소,최대" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +44,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/단계 5 실습 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/단계 6 1차원 배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 5 실습 1/10996 별 찍기 - 21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 6 1차원 배열/10818 최소,최대.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2523 별 찍기 - 13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10828 스택" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +65,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/단계 5 실습 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/단계 20 스택" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 5 실습 1/2523 별 찍기 - 13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 20 스택/10828 스택.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2562 최댓값" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/단계 6 1차원 배열" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단계 6 1차원 배열/2562 최댓값.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,27 +112,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\github\PycharmProjects\algorithm_python\단계 7 함수\# 1065 한수.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="# 2446 별 찍기 - 9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/단계 5 실습 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\github\PycharmProjects\algorithm_python\단계 5 실습 1\# 2446 별 찍기 - 9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10828 스택" />
+        <item itemvalue="Python.2562 최댓값" />
+        <item itemvalue="Python.10818 최소,최대" />
         <item itemvalue="Python.# 1065 한수" />
         <item itemvalue="Python.# 4673 셀프 넘버" />
-        <item itemvalue="Python.10996 별 찍기 - 21" />
-        <item itemvalue="Python.# 2446 별 찍기 - 9" />
-        <item itemvalue="Python.2523 별 찍기 - 13" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595343614677</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="백준 알고리즘 7단계 함수">
+      <created>1595387592568</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1595387592568</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,45 +237,46 @@
     <MESSAGE value="백준 알고리즘 3단계 for문 끝까지" />
     <MESSAGE value="백준 알고리즘 4단계 while문" />
     <MESSAGE value="백준 알고리즘 5단계 실습 1 끝까지" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 알고리즘 5단계 실습 1 끝까지" />
+    <MESSAGE value="백준 알고리즘 7단계 함수" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 알고리즘 7단계 함수" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="577" y="87" key="CommitChangelistDialog2" timestamp="1595343613914">
+    <state x="577" y="87" key="CommitChangelistDialog2" timestamp="1595387591707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="577" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595343613914" />
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1595387340956">
+    <state x="577" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595387591707" />
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1595819271740">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595387340956" />
-    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1595387340956">
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595819271740" />
+    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1595819271740">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595387340956" />
-    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1595387340956">
+    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595819271740" />
+    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1595819271740">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595387340956" />
-    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1595387340956">
+    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595819271740" />
+    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1595819271740">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595387340956" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1595387217177">
+    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595819271740" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1595819212467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595387217177" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1595387217177">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595819212467" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1595819212467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595387217177" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1595387217177">
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595819212467" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1595819212467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595387217177" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1595387217177">
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595819212467" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1595819212467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595387217177" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595819212467" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595338698083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -286,9 +294,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/단계 7 함수/1065 한수.py</url>
+          <url>file://$PROJECT_DIR$/단계 7 함수/# 1065 한수.py</url>
           <line>16</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/단계 20 스택/10828 스택.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/단계 20 스택/10828 스택.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
