@@ -42,6 +42,7 @@ class CircularQueue:
 
         print("[f=%s, r=%d] ==> "%(self.front, self.rear), out)
 
+
 def bfs(start_val, dst_val):
     # q = [(start_val, 0)]
     q = deque()
