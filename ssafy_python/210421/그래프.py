@@ -15,6 +15,7 @@ def bfs(s, v): # 시작점 s, 정점 개수 v
                 # visited[i] = 1 # 단순 방문 여부만 체크
                 visited[i] = visited[t] + 1 # s 로부터 i 까지의 거리 계산
 
+
 v, e = map(int, input().split())
 edge = list(map(int, input().split()))
 adj = [[0] * (v + 1) for _ in range(v + 1)]  # 인접 행렬
