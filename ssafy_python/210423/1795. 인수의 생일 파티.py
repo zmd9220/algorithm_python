@@ -1,3 +1,4 @@
+import heapq
 
 inf = 1000000
 
@@ -7,6 +8,7 @@ def dijkstra(n, x, adj, d):
     v = [0] * (n+1)
     v[x] = 1 # 출발지 비용 확정
     # 남은 노드 동안 반복
+    # q = heapq
     for _ in range(n-1):
         min_idx = 0
         for i in range(1, n+1):
